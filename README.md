@@ -53,7 +53,7 @@ Body:
 }
 
 ### Postman Output
-![Postman Output](Project output Screenshots/Project Output on Postman API.JPG)
+![Postman Output](project-output-screenshots/Project-Output-on-PostmanAPI.JPG)
 
 ---
 ## Author
