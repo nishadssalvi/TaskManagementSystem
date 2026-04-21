@@ -58,6 +58,9 @@ Body:
 ### MySQL Output
 ![MySQL Output](project-output-screenshots/Project-Output-on-MySQL.JPG)
 
+### Browser Output
+![Browser Output](project-output-screenshots/Project-Output-on-Browser.JPG))
+
 ---
 ## Author
 Nishad Salvi
