@@ -55,6 +55,9 @@ Body:
 ### Postman Output
 ![Postman Output](project-output-screenshots/Project-Output-on-PostmanAPI.JPG)
 
+### MySQL Output
+![MySQL Output](project-output-screenshots/Project-Output-on-MySQL.JPG)
+
 ---
 ## Author
 Nishad Salvi
