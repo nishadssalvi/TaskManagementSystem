@@ -52,6 +52,8 @@ Body:
 "status": "Pending"
 }
 
+Project output Screenshots/Project Output on Browser.JPG
+
 ---
 ## Author
 Nishad Salvi
