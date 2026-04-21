@@ -52,7 +52,8 @@ Body:
 "status": "Pending"
 }
 
-Project output Screenshots/Project Output on Browser.JPG
+### Postman Output
+![Postman Output]()
 
 ---
 ## Author
